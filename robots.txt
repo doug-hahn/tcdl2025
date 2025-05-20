@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://github.com/doug-hahn/tcdl2025
+Host: https://doug-hahn.github.io/tcdl2025
 
 # Sitemaps
-Sitemap: https://github.com/doug-hahn/tcdl2025/sitemap.xml
+Sitemap: https://doug-hahn.github.io/tcdl2025/sitemap.xml
